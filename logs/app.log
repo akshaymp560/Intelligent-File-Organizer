@@ -1,0 +1,51 @@
+2026-03-23 15:41:24,640 - INFO - Moved: test_folder\Documents\License free.txt \u2192 test_folder\Documents\License free.txt
+2026-03-23 15:41:24,641 - INFO - Moved: test_folder\Duplicates\fileorg1.jpg \u2192 test_folder\Images\fileorg1.jpg
+2026-03-23 15:41:24,641 - INFO - Moved: test_folder\Duplicates\fileorg2 - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy.jpg
+2026-03-23 15:41:24,642 - INFO - Moved: test_folder\Duplicates\fileorg2.jpg \u2192 test_folder\Images\fileorg2.jpg
+2026-03-23 15:41:24,642 - INFO - Moved: test_folder\Images\fileorg1 - Copy.jpg \u2192 test_folder\Images\fileorg1 - Copy.jpg
+2026-03-23 15:41:24,642 - INFO - Moved: test_folder\Images\fileorg2 - Copy - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy - Copy.jpg
+2026-03-23 15:41:24,650 - INFO - Duplicate moved: test_folder\Images\fileorg1.jpg \u2192 test_folder\Duplicates\fileorg1.jpg
+2026-03-23 15:41:24,650 - INFO - Duplicate moved: test_folder\Images\fileorg2 - Copy.jpg \u2192 test_folder\Duplicates\fileorg2 - Copy.jpg
+2026-03-23 15:41:24,650 - INFO - Duplicate moved: test_folder\Images\fileorg2.jpg \u2192 test_folder\Duplicates\fileorg2.jpg
+2026-03-23 15:43:50,957 - INFO - Moved: test_folder\Documents\License free.txt \u2192 test_folder\Documents\License free.txt
+2026-03-23 15:43:50,957 - INFO - Moved: test_folder\Duplicates\fileorg1.jpg \u2192 test_folder\Images\fileorg1.jpg
+2026-03-23 15:43:50,958 - INFO - Moved: test_folder\Duplicates\fileorg2 - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy.jpg
+2026-03-23 15:43:50,958 - INFO - Moved: test_folder\Duplicates\fileorg2.jpg \u2192 test_folder\Images\fileorg2.jpg
+2026-03-23 15:43:50,958 - INFO - Moved: test_folder\Images\fileorg1 - Copy.jpg \u2192 test_folder\Images\fileorg1 - Copy.jpg
+2026-03-23 15:43:50,958 - INFO - Moved: test_folder\Images\fileorg2 - Copy - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy - Copy.jpg
+2026-03-23 15:43:50,966 - INFO - Duplicate moved: test_folder\Images\fileorg1.jpg \u2192 test_folder\Duplicates\fileorg1.jpg
+2026-03-23 15:43:50,966 - INFO - Duplicate moved: test_folder\Images\fileorg2 - Copy.jpg \u2192 test_folder\Duplicates\fileorg2 - Copy.jpg
+2026-03-23 15:43:50,966 - INFO - Duplicate moved: test_folder\Images\fileorg2.jpg \u2192 test_folder\Duplicates\fileorg2.jpg
+2026-03-23 15:54:30,048 - INFO - Moved: test_folder\Documents\License free.txt \u2192 test_folder\Documents\License free.txt
+2026-03-23 15:54:30,049 - INFO - Moved: test_folder\Duplicates\fileorg1.jpg \u2192 test_folder\Images\fileorg1.jpg
+2026-03-23 15:54:30,049 - INFO - Moved: test_folder\Duplicates\fileorg2 - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy.jpg
+2026-03-23 15:54:30,049 - INFO - Moved: test_folder\Duplicates\fileorg2.jpg \u2192 test_folder\Images\fileorg2.jpg
+2026-03-23 15:54:30,050 - INFO - Moved: test_folder\Images\fileorg1 - Copy.jpg \u2192 test_folder\Images\fileorg1 - Copy.jpg
+2026-03-23 15:54:30,050 - INFO - Moved: test_folder\Images\fileorg2 - Copy - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy - Copy.jpg
+2026-03-23 15:54:30,057 - INFO - Duplicate moved: test_folder\Images\fileorg1.jpg \u2192 test_folder\Duplicates\fileorg1.jpg
+2026-03-23 15:54:30,057 - INFO - Duplicate moved: test_folder\Images\fileorg2 - Copy.jpg \u2192 test_folder\Duplicates\fileorg2 - Copy.jpg
+2026-03-23 15:54:30,058 - INFO - Duplicate moved: test_folder\Images\fileorg2.jpg \u2192 test_folder\Duplicates\fileorg2.jpg
+2026-03-23 15:55:46,212 - INFO - Moved: test_folder\Documents\License free.txt \u2192 test_folder\Documents\License free.txt
+2026-03-23 15:55:46,213 - INFO - Moved: test_folder\Duplicates\fileorg1.jpg \u2192 test_folder\Images\fileorg1.jpg
+2026-03-23 15:55:46,213 - INFO - Moved: test_folder\Duplicates\fileorg2 - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy.jpg
+2026-03-23 15:55:46,213 - INFO - Moved: test_folder\Duplicates\fileorg2.jpg \u2192 test_folder\Images\fileorg2.jpg
+2026-03-23 15:55:46,214 - INFO - Moved: test_folder\Images\fileorg1 - Copy.jpg \u2192 test_folder\Images\fileorg1 - Copy.jpg
+2026-03-23 15:55:46,214 - INFO - Moved: test_folder\Images\fileorg2 - Copy - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy - Copy.jpg
+2026-03-23 15:55:46,221 - INFO - Duplicate moved: test_folder\Images\fileorg1.jpg \u2192 test_folder\Duplicates\fileorg1.jpg
+2026-03-23 15:55:46,221 - INFO - Duplicate moved: test_folder\Images\fileorg2 - Copy.jpg \u2192 test_folder\Duplicates\fileorg2 - Copy.jpg
+2026-03-23 15:55:46,222 - INFO - Duplicate moved: test_folder\Images\fileorg2.jpg \u2192 test_folder\Duplicates\fileorg2.jpg
+2026-03-23 16:01:23,068 - INFO - Moved: test_folder\csl \u2192 test_folder\Documents\csl
+2026-03-23 16:01:23,069 - INFO - Moved: test_folder\mytxt \u2192 test_folder\Documents\mytxt
+2026-03-23 16:01:23,069 - INFO - Moved: test_folder\New Microsoft Excel Worksheet.xlsx \u2192 test_folder\Documents\New Microsoft Excel Worksheet.xlsx
+2026-03-23 16:01:23,070 - INFO - Moved: test_folder\randomfile.xyz \u2192 test_folder\Documents\randomfile.xyz
+2026-03-23 16:01:23,070 - INFO - Moved: test_folder\Documents\License free.txt \u2192 test_folder\Documents\License free.txt
+2026-03-23 16:01:23,070 - INFO - Moved: test_folder\Duplicates\fileorg1.jpg \u2192 test_folder\Images\fileorg1.jpg
+2026-03-23 16:01:23,071 - INFO - Moved: test_folder\Duplicates\fileorg2 - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy.jpg
+2026-03-23 16:01:23,071 - INFO - Moved: test_folder\Duplicates\fileorg2.jpg \u2192 test_folder\Images\fileorg2.jpg
+2026-03-23 16:01:23,071 - INFO - Moved: test_folder\Images\fileorg1 - Copy.jpg \u2192 test_folder\Images\fileorg1 - Copy.jpg
+2026-03-23 16:01:23,071 - INFO - Moved: test_folder\Images\fileorg2 - Copy - Copy.jpg \u2192 test_folder\Images\fileorg2 - Copy - Copy.jpg
+2026-03-23 16:01:23,079 - INFO - Duplicate moved: test_folder\Documents\New Microsoft Excel Worksheet.xlsx \u2192 test_folder\Duplicates\New Microsoft Excel Worksheet.xlsx
+2026-03-23 16:01:23,079 - INFO - Duplicate moved: test_folder\Documents\randomfile.xyz \u2192 test_folder\Duplicates\randomfile.xyz
+2026-03-23 16:01:23,080 - INFO - Duplicate moved: test_folder\Images\fileorg1.jpg \u2192 test_folder\Duplicates\fileorg1.jpg
+2026-03-23 16:01:23,080 - INFO - Duplicate moved: test_folder\Images\fileorg2 - Copy.jpg \u2192 test_folder\Duplicates\fileorg2 - Copy.jpg
+2026-03-23 16:01:23,080 - INFO - Duplicate moved: test_folder\Images\fileorg2.jpg \u2192 test_folder\Duplicates\fileorg2.jpg
